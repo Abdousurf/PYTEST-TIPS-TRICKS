@@ -3,3 +3,4 @@ pytest-cov==6.0.0
 pylint==3.3.2
 black==24.10.0
 ipython==8.30.0
+nbval==0.11.0
